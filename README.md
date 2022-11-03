@@ -1,2 +1,2 @@
 # my-resume
-my resume
+My online resume.
