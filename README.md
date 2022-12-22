@@ -1,4 +1,4 @@
-# my-resume
+# resume
 My online resume.
 
 ## Preview
